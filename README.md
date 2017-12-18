@@ -14,4 +14,4 @@ Las transiciones dependen del número de células vecinas vivas:
 
 - Una célula viva con 2 ó 3 células vecinas vivas sigue viva, en otro caso muere o permanece muerta (por "soledad" o "superpoblación").
 
-![Game Of Life Rules](resources/game-of-life-rules.jpg)
+![Game Of Life Rules](game-of-life-rules.jpg)
